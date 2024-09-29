@@ -1,6 +1,6 @@
 # AI Landing Page UI
 
-In this tutorial ([Open in Youtube](https://youtu.be/E5IbE7OGBQk)), Ready to unleash the power of AI on your website? Join us in this exciting tutorial where we design an eye-catching and effective AI landing page from scratch! 🤖✨ Perfect for developers and designers looking to boost their web design skills and create a stunning user experience. In this video, we'll cover:
+Ready to unleash the power of AI on your website? 🤖✨ Perfect for developers and designers looking to boost their web design skills and create a stunning user experience. 
 
 - The importance of a captivating landing page 🎨
 - Key elements for AI-focused websites 🌟
